@@ -9,5 +9,8 @@
   "keywords": [],
   "author": "Santiago",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
